@@ -1,0 +1,9 @@
+insert 7
+insert 10
+insert 9
+isEmpty
+insert 8
+maximum
+extractMax
+print
+

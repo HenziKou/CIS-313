@@ -1,0 +1,9 @@
+# Expected output from inSample.txt
+5 Found
+in-order
+3 5 10 20 
+in-order
+2 3 5 10 20 
+couldnt find key: 17
+in-order
+1 2 3 5 10 
